@@ -75,8 +75,10 @@ Implementation of:
 
 ```text
 .
+├── Report_Bertrand_Lecoeur
 ├── Myassignement.R
 ├── F70CF_assignment_2024.R
+├── F70CF.R
 ├── Assignment_2024.pdf
 └── README.md
 ```
